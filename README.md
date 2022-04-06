@@ -1,2 +1,3 @@
-# issue_tracker
-Finished Issue Tracker project from Quality Assurance Projects from freeCodeCamp.org
+# [Issue Tracker](https://www.freecodecamp.org/learn/quality-assurance/quality-assurance-projects/issue-tracker)
+
+
